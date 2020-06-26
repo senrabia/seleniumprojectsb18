@@ -18,6 +18,14 @@ public class Interwiew_Question {
 14. Why are we used SELENIUM? What advantages of SELENIUM??
 15. What is a WEB ELEMENT
 16. What is a LOCATOR??  Code ?Statement that allows us to locate web elements.
+=======================================================================
+DAY-7
+1-How many types of dropdowns do we have? Two adet HTML AND SELECT
+2-How do we handle HTML DROPDOWNS?? We handle just locate using any locator. And we click.
+3-What is select class? What do you mean SELECT CLASS?
+     a)-It is aclass coming from Selenium Library.
+     b)-It has ready methods in it.
+     c)-We use it to handle SELECT dropdowns.
 
 
 
