@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import utulities.SmartBearUtilities;
 import utulities.WebDriverFactory;
 
 import java.util.List;

@@ -27,6 +27,15 @@ DAY-7
      b)-It has ready methods in it.
      c)-We use it to handle SELECT dropdowns.
 
+====================================================================
+DAY-9
+1-How do we handle  HTML Alerts ??
+2-How do we handle javascript Alerts?
+3-How many types of Alerts do we have??
+4- What is an iframe.
+5-How do we handle WINDOWS / TABS ? What is a window handle?
+
+
 
 
 
